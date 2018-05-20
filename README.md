@@ -1,4 +1,7 @@
 # 收集一些关于前端学习的网站
+欢迎大家在看的时候，给我点点***Star***
+
+## 前端交流学习的网站
 
 [关于谷歌调试工具使用](https://juejin.im/post/5af53823f265da0b75282b0f)
 
@@ -23,6 +26,15 @@
 [前端开源文档（open文档）](http://www.open-open.com/doc/list/55/)
 
 [前端网](https://www.qdfuns.com/)
+
+## 前端学习视频网站
+
+[慕课网（国内比较知名）](https://www.imooc.com/)
+
+[极客学院](https://www.jikexueyuan.com/)
+
+[学堂在线](http://www.xuetangx.com/)
+
 ## 关于面试刷题的网站
 
 [leetcode](https://leetcode-cn.com/)
