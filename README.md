@@ -21,11 +21,17 @@
 
 [w3cplus](http://www.w3cplus.com/)
 
+[segmentfault思否](https://segmentfault.com/)
+
 [前端TOP10](https://www.awesomes.cn/rank)
 
 [前端开源文档（open文档）](http://www.open-open.com/doc/list/55/)
 
 [前端网](https://www.qdfuns.com/)
+
+[前端乱炖](http://www.html-js.com/)
+
+[开发者头条](https://toutiao.io/)
 
 ## 前端学习视频网站
 
