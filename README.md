@@ -1,5 +1,5 @@
 # 收集一些关于前端学习的网站
-欢迎大家在看的时候，给我点点 <h3 font-size=20px color=#f00>Star</h3>
+欢迎大家在看的时候给我点点 <font size=16 color=#f00>Star</font>
 
 ## 前端交流学习的网站
 
