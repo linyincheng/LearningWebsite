@@ -7,15 +7,15 @@
 
 [关于简历怎么写](https://www.v2ex.com/)
 
-[掘金（大牛较多）](https://juejin.im/timeline)
+[掘金（大牛较多）](https://juejin.im/timeline)（前后台，数据库）
 
-[stack overflow （国外的网站）](https://stackoverflow.com/)
+[stack overflow （国外的网站）](https://stackoverflow.com/)（前后台，数据库）
 
 [WEB骇客](http://www.webhek.com/)
 
 [ES6新标准阮一峰老师](http://jsrun.net/tutorial/tZKKp)
 
-[知乎（大牛很多）](https://www.zhihu.com/)
+[知乎（大牛很多）](https://www.zhihu.com/)(这是一个问问题的网站，在上面你会得到各种答案。)
 
 [javascript难点详解 (廖雪峰老师)](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 
