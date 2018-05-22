@@ -52,3 +52,7 @@
 ## 关于代码托管工具--git和github
 
 [git教程(廖雪峰老师)](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+## 关于计算机基础网站（数据结构，操作系统，计算机网络）
+
+[学堂在线 http://www.xuetangx.com/courses?cid=117](http://www.xuetangx.com/courses?cid=117)（计算机基础不好的同学可以看一下）
